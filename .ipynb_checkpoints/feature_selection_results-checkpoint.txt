@@ -1,0 +1,511 @@
+Features: ['m_speed'], RMSE: 0.7682622440002614
+Features: ['m_speed_var_480'], RMSE: 0.6476211409859072
+Features: ['m_speed_stddev_480'], RMSE: 0.6476211409859072
+Features: ['m_acceleration'], RMSE: 0.7613172663628789
+Features: ['m_acceleration_var_480'], RMSE: 0.6794502123457018
+Features: ['m_acceleration_stddev_480'], RMSE: 0.6802201618554685
+Features: ['m_jerk'], RMSE: 0.7653216168914534
+Features: ['m_jerk_var_480'], RMSE: 0.6218382431861487
+Features: ['m_jerk_stddev_480'], RMSE: 0.6320522401209203
+Features: ['m_speed', 'm_speed_var_480'], RMSE: 0.6621097963176213
+Features: ['m_speed', 'm_speed_stddev_480'], RMSE: 0.6621097963176213
+Features: ['m_speed', 'm_acceleration'], RMSE: 0.7609740130007784
+Features: ['m_speed', 'm_acceleration_var_480'], RMSE: 0.6644816095998615
+Features: ['m_speed', 'm_acceleration_stddev_480'], RMSE: 0.6602635473094703
+Features: ['m_speed', 'm_jerk'], RMSE: 0.7661237448106178
+Features: ['m_speed', 'm_jerk_var_480'], RMSE: 0.6228971835364451
+Features: ['m_speed', 'm_jerk_stddev_480'], RMSE: 0.6297615715220954
+Features: ['m_speed_var_480', 'm_speed_stddev_480'], RMSE: 0.6476211409859072
+Features: ['m_speed_var_480', 'm_acceleration'], RMSE: 0.6583677022091183
+Features: ['m_speed_var_480', 'm_acceleration_var_480'], RMSE: 0.6397003784627501
+Features: ['m_speed_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6493995811715753
+Features: ['m_speed_var_480', 'm_jerk'], RMSE: 0.661908923581271
+Features: ['m_speed_var_480', 'm_jerk_var_480'], RMSE: 0.6059914623922512
+Features: ['m_speed_var_480', 'm_jerk_stddev_480'], RMSE: 0.6093962087581282
+Features: ['m_speed_stddev_480', 'm_acceleration'], RMSE: 0.6583677022091183
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480'], RMSE: 0.6397003784627501
+Features: ['m_speed_stddev_480', 'm_acceleration_stddev_480'], RMSE: 0.6493995811715753
+Features: ['m_speed_stddev_480', 'm_jerk'], RMSE: 0.661908923581271
+Features: ['m_speed_stddev_480', 'm_jerk_var_480'], RMSE: 0.6059914623922512
+Features: ['m_speed_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6093962087581282
+Features: ['m_acceleration', 'm_acceleration_var_480'], RMSE: 0.6857320792544374
+Features: ['m_acceleration', 'm_acceleration_stddev_480'], RMSE: 0.6950888807600614
+Features: ['m_acceleration', 'm_jerk'], RMSE: 0.7634656714789121
+Features: ['m_acceleration', 'm_jerk_var_480'], RMSE: 0.6366777373386913
+Features: ['m_acceleration', 'm_jerk_stddev_480'], RMSE: 0.6326869186782034
+Features: ['m_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6801560624035975
+Features: ['m_acceleration_var_480', 'm_jerk'], RMSE: 0.6826139285005444
+Features: ['m_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6400032662817295
+Features: ['m_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6212335550953714
+Features: ['m_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6949983119830132
+Features: ['m_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6268173587241064
+Features: ['m_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6173961538212385
+Features: ['m_jerk', 'm_jerk_var_480'], RMSE: 0.6220556844851506
+Features: ['m_jerk', 'm_jerk_stddev_480'], RMSE: 0.6351890860028562
+Features: ['m_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.632209375485586
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480'], RMSE: 0.6621097963176213
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration'], RMSE: 0.668694455477381
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480'], RMSE: 0.6307084188760309
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6352349786680945
+Features: ['m_speed', 'm_speed_var_480', 'm_jerk'], RMSE: 0.6764352132506426
+Features: ['m_speed', 'm_speed_var_480', 'm_jerk_var_480'], RMSE: 0.6062171840441793
+Features: ['m_speed', 'm_speed_var_480', 'm_jerk_stddev_480'], RMSE: 0.6037640830791869
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration'], RMSE: 0.668694455477381
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480'], RMSE: 0.6307084188760309
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_stddev_480'], RMSE: 0.6352349786680945
+Features: ['m_speed', 'm_speed_stddev_480', 'm_jerk'], RMSE: 0.6764352132506426
+Features: ['m_speed', 'm_speed_stddev_480', 'm_jerk_var_480'], RMSE: 0.6062171840441793
+Features: ['m_speed', 'm_speed_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6037640830791869
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480'], RMSE: 0.6782431476892263
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_stddev_480'], RMSE: 0.6731925587585427
+Features: ['m_speed', 'm_acceleration', 'm_jerk'], RMSE: 0.7630062845704224
+Features: ['m_speed', 'm_acceleration', 'm_jerk_var_480'], RMSE: 0.6226298210443818
+Features: ['m_speed', 'm_acceleration', 'm_jerk_stddev_480'], RMSE: 0.6303730542536553
+Features: ['m_speed', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6640332423718964
+Features: ['m_speed', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6692079520365203
+Features: ['m_speed', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6407271511847312
+Features: ['m_speed', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6347882659827208
+Features: ['m_speed', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6647709103853248
+Features: ['m_speed', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6456319790373934
+Features: ['m_speed', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6298604955574009
+Features: ['m_speed', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6257665328346782
+Features: ['m_speed', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6209731868678326
+Features: ['m_speed', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6228642828372616
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration'], RMSE: 0.6583677022091183
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480'], RMSE: 0.6397003784627501
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480'], RMSE: 0.6493995811715753
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_jerk'], RMSE: 0.661908923581271
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_jerk_var_480'], RMSE: 0.6059914623922512
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6093962087581282
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480'], RMSE: 0.6409191923018964
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480'], RMSE: 0.643748003488502
+Features: ['m_speed_var_480', 'm_acceleration', 'm_jerk'], RMSE: 0.6564516328431376
+Features: ['m_speed_var_480', 'm_acceleration', 'm_jerk_var_480'], RMSE: 0.589513710934001
+Features: ['m_speed_var_480', 'm_acceleration', 'm_jerk_stddev_480'], RMSE: 0.6038332669559606
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6452068827753289
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.652754140580952
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6164948961822551
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6060880432104163
+Features: ['m_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6587350752561539
+Features: ['m_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6160906738843721
+Features: ['m_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.598925894859082
+Features: ['m_speed_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6194919884068512
+Features: ['m_speed_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6045744318325997
+Features: ['m_speed_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6093962087581282
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480'], RMSE: 0.6409191923018964
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480'], RMSE: 0.643748003488502
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_jerk'], RMSE: 0.6564516328431376
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_jerk_var_480'], RMSE: 0.589513710934001
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_jerk_stddev_480'], RMSE: 0.6038332669559606
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6452068827753289
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.652754140580952
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6164948961822551
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6060880432104163
+Features: ['m_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6587350752561539
+Features: ['m_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6160906738843721
+Features: ['m_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.598925894859082
+Features: ['m_speed_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6194919884068512
+Features: ['m_speed_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6045744318325997
+Features: ['m_speed_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6093962087581282
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6878224852526468
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6981588961741471
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6394370738864955
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6264806599053816
+Features: ['m_acceleration', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.7041103409799511
+Features: ['m_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6400129947666527
+Features: ['m_acceleration', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6190705200302354
+Features: ['m_acceleration', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6395082294048495
+Features: ['m_acceleration', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.637363092167692
+Features: ['m_acceleration', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6339650390543683
+Features: ['m_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6817275382453492
+Features: ['m_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6383562835198294
+Features: ['m_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6226633278753594
+Features: ['m_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6400080767980717
+Features: ['m_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6258939660884655
+Features: ['m_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6212335550953714
+Features: ['m_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6389901592522124
+Features: ['m_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.623000331695674
+Features: ['m_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6173961538212385
+Features: ['m_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6352967289031672
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration'], RMSE: 0.668694455477381
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480'], RMSE: 0.6307084188760309
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480'], RMSE: 0.6352349786680945
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_jerk'], RMSE: 0.6764352132506426
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_jerk_var_480'], RMSE: 0.6062171840441793
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6037640830791869
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480'], RMSE: 0.6431769575499751
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480'], RMSE: 0.638165744295239
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_jerk'], RMSE: 0.6788460130891303
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_jerk_var_480'], RMSE: 0.603774850585256
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_jerk_stddev_480'], RMSE: 0.6091316136794032
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.634806056789651
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6326838362261807
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6089801027242392
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.603532517368593
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6363016804939244
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6156859748381975
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6043024182014795
+Features: ['m_speed', 'm_speed_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6081144426982446
+Features: ['m_speed', 'm_speed_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.5980830182163875
+Features: ['m_speed', 'm_speed_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6066319035426305
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480'], RMSE: 0.6431769575499751
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480'], RMSE: 0.638165744295239
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk'], RMSE: 0.6788460130891303
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk_var_480'], RMSE: 0.603774850585256
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk_stddev_480'], RMSE: 0.6091316136794032
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.634806056789651
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6326838362261807
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6089801027242392
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.603532517368593
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6363016804939244
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6156859748381975
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6043024182014795
+Features: ['m_speed', 'm_speed_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6081144426982446
+Features: ['m_speed', 'm_speed_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.5980830182163875
+Features: ['m_speed', 'm_speed_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6066319035426305
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6791511608796654
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.677881233111376
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6425610439459232
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6374988319170526
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.676291157457135
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6355346254052484
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6296820832997359
+Features: ['m_speed', 'm_acceleration', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6226641088573542
+Features: ['m_speed', 'm_acceleration', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6285348058490148
+Features: ['m_speed', 'm_acceleration', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6347310192761099
+Features: ['m_speed', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.669446069847618
+Features: ['m_speed', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6478103208524452
+Features: ['m_speed', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6328119810036512
+Features: ['m_speed', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6383745153465292
+Features: ['m_speed', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6297366736894117
+Features: ['m_speed', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6332155408785132
+Features: ['m_speed', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6368746723552801
+Features: ['m_speed', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6248402951833002
+Features: ['m_speed', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6311905011006856
+Features: ['m_speed', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6180331268031922
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480'], RMSE: 0.6409191923018964
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480'], RMSE: 0.643748003488502
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk'], RMSE: 0.6564516328431376
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk_var_480'], RMSE: 0.589513710934001
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk_stddev_480'], RMSE: 0.6038332669559606
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6452068827753289
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.652754140580952
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6164948961822551
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6060880432104163
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6587350752561539
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6160906738843721
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.598925894859082
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6194919884068512
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6045744318325997
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6093962087581282
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.645719743218222
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6450676850839449
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6120201491244431
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6051348694268396
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6459377001808321
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6178017800103297
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6057878360383587
+Features: ['m_speed_var_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.587339812492062
+Features: ['m_speed_var_480', 'm_acceleration', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6015579092570681
+Features: ['m_speed_var_480', 'm_acceleration', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6016574583772126
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6551839791325342
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6178810314467992
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6019742903827255
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6272422859446413
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6127200473243647
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6060880432104163
+Features: ['m_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6246081575969347
+Features: ['m_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.599923721025738
+Features: ['m_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.598925894859082
+Features: ['m_speed_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.605599038211807
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.645719743218222
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6450676850839449
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6120201491244431
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6051348694268396
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6459377001808321
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6178017800103297
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6057878360383587
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.587339812492062
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6015579092570681
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6016574583772126
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6551839791325342
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6178810314467992
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6019742903827255
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6272422859446413
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6127200473243647
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6060880432104163
+Features: ['m_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6246081575969347
+Features: ['m_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.599923721025738
+Features: ['m_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.598925894859082
+Features: ['m_speed_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.605599038211807
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6986067464305751
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6388780894273575
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6236235870030532
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6398162177889991
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.632460622138189
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6269382067458932
+Features: ['m_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6414693594572446
+Features: ['m_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6333096197668737
+Features: ['m_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6200204002105761
+Features: ['m_acceleration', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6351954715530563
+Features: ['m_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6407451052698087
+Features: ['m_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6283829572960609
+Features: ['m_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6226633278753594
+Features: ['m_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6258939660884655
+Features: ['m_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6235692018396676
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480'], RMSE: 0.6431769575499751
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480'], RMSE: 0.638165744295239
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk'], RMSE: 0.6788460130891303
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk_var_480'], RMSE: 0.603774850585256
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk_stddev_480'], RMSE: 0.6091316136794032
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.634806056789651
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6326838362261807
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6089801027242392
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.603532517368593
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6363016804939244
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6156859748381975
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6043024182014795
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6081144426982446
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.5980830182163875
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6066319035426305
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6459988861543636
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6443370232380504
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6268400426406475
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.613126256036553
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6395656897110799
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6232178299517782
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6052337643084671
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.5973314793075004
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6094925976596827
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6125387806162782
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.634604154202185
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6110407268050367
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6007916454736606
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6170021901828665
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6045576110543942
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.603532517368593
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6214360866317257
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6061109283878866
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6043024182014795
+Features: ['m_speed', 'm_speed_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.607621964870693
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6459988861543636
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6443370232380504
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6268400426406475
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.613126256036553
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6395656897110799
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6232178299517782
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6052337643084671
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.5973314793075004
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6094925976596827
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6125387806162782
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.634604154202185
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6110407268050367
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6007916454736606
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6170021901828665
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6045576110543942
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.603532517368593
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6214360866317257
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6061109283878866
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6043024182014795
+Features: ['m_speed', 'm_speed_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.607621964870693
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6814259519274258
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6402000639741672
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6344258650129675
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6420953582351782
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6350195777641408
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6389908709455009
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6364625279205194
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6328765984706367
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6301147419692146
+Features: ['m_speed', 'm_acceleration', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6342472345264091
+Features: ['m_speed', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6425429011315977
+Features: ['m_speed', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6293160883663124
+Features: ['m_speed', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.636851022191502
+Features: ['m_speed', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.627286084091315
+Features: ['m_speed', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6248402951833002
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.645719743218222
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6450676850839449
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6120201491244431
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.6051348694268396
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6459377001808321
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6178017800103297
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6057878360383587
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.587339812492062
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6015579092570681
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6016574583772126
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6551839791325342
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6178810314467992
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6019742903827255
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6272422859446413
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6127200473243647
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6060880432104163
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6246081575969347
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.599923721025738
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.598925894859082
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.605599038211807
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6464254660347754
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6127126092454297
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6056287342413669
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6114201463985031
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6062174094251315
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6038034525869855
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6238071293185296
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6057666337356032
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6067372233683639
+Features: ['m_speed_var_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.599786158588561
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6279806442514088
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.607870657261975
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6019742903827255
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6127200473243647
+Features: ['m_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.599923721025738
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6464254660347754
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6127126092454297
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6056287342413669
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6114201463985031
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6062174094251315
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6038034525869855
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6238071293185296
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6057666337356032
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6067372233683639
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.599786158588561
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6279806442514088
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.607870657261975
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6019742903827255
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6127200473243647
+Features: ['m_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.599923721025738
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.643681911416054
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6316357848975745
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6214380562035385
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6342419686959553
+Features: ['m_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6301046972778677
+Features: ['m_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6283829572960609
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480'], RMSE: 0.6459988861543636
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk'], RMSE: 0.6443370232380504
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480'], RMSE: 0.6268400426406475
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_stddev_480'], RMSE: 0.613126256036553
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6395656897110799
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6232178299517782
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6052337643084671
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.5973314793075004
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6094925976596827
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6125387806162782
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.634604154202185
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6110407268050367
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6007916454736606
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6170021901828665
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6045576110543942
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.603532517368593
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6214360866317257
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6061109283878866
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6043024182014795
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.607621964870693
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6418072262056925
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6232424111183995
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6079618529845225
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6254572270724555
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6090414231811464
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6096284526679125
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6255854844769642
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6064273445534021
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6103177097722498
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6103163703143141
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6216173259504713
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6094498396832445
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6007916454736606
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6045576110543942
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6061109283878866
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6418072262056925
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6232424111183995
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6079618529845225
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6254572270724555
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6090414231811464
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6096284526679125
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6255854844769642
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6064273445534021
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6103177097722498
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6103163703143141
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6216173259504713
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6094498396832445
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6007916454736606
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6045576110543942
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6061109283878866
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6413683002629932
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6352378032481903
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6340015161225282
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6363182102275897
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6303575581176809
+Features: ['m_speed', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.632099523579321
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6464254660347754
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6127126092454297
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6056287342413669
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6114201463985031
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6062174094251315
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6038034525869855
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6238071293185296
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6057666337356032
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6067372233683639
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.599786158588561
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6279806442514088
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.607870657261975
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6019742903827255
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6127200473243647
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.599923721025738
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6152596867707699
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6057941990345832
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.602312344876322
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6042589675692158
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6068870756282135
+Features: ['m_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.607870657261975
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6152596867707699
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6057941990345832
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.602312344876322
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6042589675692158
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6068870756282135
+Features: ['m_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.607870657261975
+Features: ['m_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6300529427886428
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk'], RMSE: 0.6418072262056925
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480'], RMSE: 0.6232424111183995
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_stddev_480'], RMSE: 0.6079618529845225
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6254572270724555
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6090414231811464
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6096284526679125
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6255854844769642
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6064273445534021
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6103177097722498
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6103163703143141
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6216173259504713
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6094498396832445
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6007916454736606
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6045576110543942
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6061109283878866
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6255348648392993
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6064246938028295
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6092269096534094
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6118424995651117
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6047588299812781
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6094498396832445
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6255348648392993
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6064246938028295
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6092269096534094
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6118424995651117
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6047588299812781
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6094498396832445
+Features: ['m_speed', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6360428639107706
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6152596867707699
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6057941990345832
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.602312344876322
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6042589675692158
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6068870756282135
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.607870657261975
+Features: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6057008945992318
+Features: ['m_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6057008945992318
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480'], RMSE: 0.6255348648392993
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_stddev_480'], RMSE: 0.6064246938028295
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6092269096534094
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6118424995651117
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6047588299812781
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6094498396832445
+Features: ['m_speed', 'm_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6123171299123337
+Features: ['m_speed', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6123171299123337
+Features: ['m_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6057008945992318
+Features: ['m_speed', 'm_speed_var_480', 'm_speed_stddev_480', 'm_acceleration', 'm_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480'], RMSE: 0.6123171299123337
