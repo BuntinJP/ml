@@ -1,0 +1,20 @@
+model: lgbm
+Best feature combination for lgbm: ['m_speed', 'm_acceleration', 'm_jerk_stddev_480']
+Best RMSE for lgbm: 0.6960560379930253
+
+model: nn
+Best feature combination for nn: ['m_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk', 'm_jerk_var_480', 'm_jerk_stddev_480']
+Best RMSE for nn: 0.6240931599190512
+
+model: linear_regression
+Best feature combination for linear_regression: ['m_acceleration_var_480', 'm_acceleration_stddev_480', 'm_jerk_var_480', 'm_jerk_stddev_480']
+Best RMSE for linear_regression: 0.6199633155378695
+
+model: svr
+Best feature combination for svr: ['m_acceleration', 'm_acceleration_var_480']
+Best RMSE for svr: 0.6266878537357565
+
+model: random_forest
+Best feature combination for random_forest: ['m_speed_var_480', 'm_acceleration', 'm_acceleration_var_480', 'm_jerk_var_480', 'm_jerk_stddev_480']
+Best RMSE for random_forest: 0.7001620044029231
+
