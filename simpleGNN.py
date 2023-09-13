@@ -4,6 +4,8 @@ import numpy as np
 from sklearn.metrics import mean_squared_error
 import torch
 import torch.nn.functional as F
+from torch_geometric.nn import GCNConv
+from torch_geometric.data import Data
 
 DATA_DIR = 'dms_data'
 
@@ -32,6 +34,43 @@ features = [
 X_train, y_train, X_test, y_test = train[features], train['oss'], test[features], test['oss']
 
 # ここからは元のGNNのコード
+
+def transform_to_graph_data(X, y):
+    # Convert dataframe to tensor
+    x = torch.tensor(X.values, dtype=torch.float)
+    
+    # Create edges by connecting consecutive nodes (timestamps)
+    edge_index = torch.tensor([list(range(X.shape[0]-1)), list(range(1, X.shape[0]))], dtype=torch.long)
+    
+    # Convert target to tensor
+    y = torch.tensor(y.values, dtype=torch.float).view(-1, 1)
+    
+    # Create a PyTorch Geometric data object
+    data = Data(x=x, edge_index=edge_index, y=y)
+    return data
+
+class SimpleGNN(torch.nn.Module):
+    def __init__(self, num_features):
+        super(SimpleGNN, self).__init__()
+        self.conv1 = GCNConv(num_features, 64)
+        self.conv2 = GCNConv(64, 32)
+        self.fc = torch.nn.Linear(32, 1)
+
+    def forward(self, data):
+        x, edge_index = data.x, data.edge_index
+        
+        # 1st Graph Convolution
+        x = self.conv1(x, edge_index)
+        x = F.relu(x)
+        
+        # 2nd Graph Convolution
+        x = self.conv2(x, edge_index)
+        x = F.relu(x)
+        
+        # Fully Connected Layer
+        x = self.fc(x)
+        return x
+
 train_data = transform_to_graph_data(X_train, y_train)
 test_data = transform_to_graph_data(X_test, y_test)
 

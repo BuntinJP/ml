@@ -27,7 +27,11 @@ def train_lightgbm(X, y):
     
     model = lgb.train(params, train_data, valid_sets=eval_data)
     return model
-
+    
+def evaluate_model(model, X, y):
+    """モデルの評価。RMSE"""
+    predictions = model.predict(X)
+    return np.sqrt(mean_squared_error(y, predictions))
 def get_data_from_directory(directory_path):
     """指定ディレクトリ内のCSV全部読んで結合"""
     files = [f for f in os.listdir(directory_path) if f.endswith('.csv')]
