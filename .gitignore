@@ -3,3 +3,7 @@ raw_data
 .DS_Store
 fromAnzai.zip
 face_data
+ForMachineLearning
+TEST_Y_images_dirs
+eye_data_json_dir
+dms_data_single
