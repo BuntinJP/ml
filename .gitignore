@@ -8,3 +8,4 @@ TEST_Y_images_dirs
 eye_data_json_dir
 dms_data_single
 feat_data_json_dir
+_dms_data
